@@ -85,12 +85,13 @@ animation: clickbutton 0.3s ease-in-out;
 
 }
 
+
 @media only screen and (max-width: 600px) {
     h1 {
         font-size: 2em; 
     }
     span{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 
     .ball {
